@@ -1,5 +1,5 @@
 name: Generate Snake Contribution Graph
-
+ 
 on:
   schedule:
     - cron: "0 0 * * *"   # runs every day at 00:00 UTC
