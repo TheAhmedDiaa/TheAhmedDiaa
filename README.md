@@ -16,7 +16,7 @@
 - 🌱 Currently diving deeper into **Next.js & TypeScript**  
 - 👨‍💻 Check out my portfolio: [Ahmed's Portfolio](https://portfolio-1cb.pages.dev/)  
 - 💬 Ask me about **React, Node.js, Next.js, and Tailwind**  
-- 📫 Reach me at:  [LinkedIn]([https://portfolio-1cb.pages.dev/](https://www.linkedin.com/in/ahmed-diaa-front-end))
+- 📫 Reach me at:  [LinkedIn](https://www.linkedin.com/in/ahmed-diaa-front-end)
 - ⚡ Fun fact: I debug with coffee ☕ and memes 😅  
 
 ---
