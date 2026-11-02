@@ -49,7 +49,7 @@ const ahmed = {
 </table>
 
 - 🌱 Currently diving deeper into **Next.js & TypeScript**
-- 👨‍💻 Portfolio: [portfolio-1cb.pages.dev](https://portfolio-1cb.pages.dev/)
+- 👨‍💻 Portfolio: [ahmeddiaa.vercel.app](https://ahmeddiaa.vercel.app/)
 - 💬 Ask me about **React, Node.js, Next.js, and Tailwind**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-diaa-front-end)
 
