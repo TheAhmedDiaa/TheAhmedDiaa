@@ -80,14 +80,6 @@ const ahmed = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheAhmedDiaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
